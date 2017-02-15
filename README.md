@@ -12,6 +12,6 @@ A couple of years ago, I bought my unit for a store in <a href="http://en.wikipe
 When I did a Google Search, I found this URL: http://www.usbgeek.com/products/usb-led-mini-board
 ## Conclusion
 Tested on my Blue Scrolling LED Mini Board (48 x 12 pixels)<br>
-![Alt text](/KM_LED_Badge.png?raw=true "Kuya Marc USB LED Badge")<br>
+![Alt text](/KM_LED_Badge.jpg?raw=true "Kuya Marc USB LED Badge")<br>
 Recent versions of Linux have a built-in driver for the PL2303 serial USB device, so no extra driver is necessary. Python code has been tested with 32-bit & 64-bit GNU/Linux, FreeBSD and Oracle Solaris operating systems.
 

@@ -8,8 +8,7 @@ The script `message.py` uses <a href="http://www.tutorialspoint.com/python/pytho
 Shell script `dialog-test.sh` is an example message entry script that uses <a href="http://linux.die.net/man/1/dialog">dialog</a>.<br>
 Shell script `showtemp.sh` displays the temperature of <a href="http://en.wikipedia.org/wiki/Pasig">Pasig City</a>, <a href="http://en.wikipedia.org/wiki/Philippines">Philippines</a> on the LED board.
 ## Where to buy this USB LED Mini Board
-A couple of years ago, I bought my unit for a store in <a href="http://en.wikipedia.org/wiki/SM_Megamall">SM Megamall</a> Cyberzone, however, the store I bought mine from, no longer sells these LED boards.<br><br>
-When I did a Google Search, I found this URL: http://www.usbgeek.com/products/usb-led-mini-board
+A couple of years ago, I bought my unit for a store in <a href="http://en.wikipedia.org/wiki/SM_Megamall">SM Megamall</a> Cyberzone, however, the store I bought mine from, no longer sells these LED boards.
 ## Conclusion
 Tested on my Blue Scrolling LED Mini Board (48 x 12 pixels)<br>
 ![Alt text](/KM_LED_Badge.jpg?raw=true "Kuya Marc USB LED Badge")<br>
